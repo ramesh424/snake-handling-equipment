@@ -1,0 +1,46 @@
+Section,Test,Parameter,Trial,Value,Unit,Result/Status,Notes
+Jaw opening and closing performance,Jaw opening,Maximum jaw opening,,72,mm,,Measured using vernier caliper
+Jaw opening and closing performance,Jaw closing,Minimum jaw gap after trigger pull,,8,mm,,Measured after full trigger actuation
+Jaw opening and closing performance,Jaw pad,Soft pad contact width,,18,mm,,Compliant soft-grip contact surface
+Jaw opening and closing performance,Spring return,Jaw reopening after trigger release,,,Successful,Spring-assisted reopening observed
+Jaw opening and closing performance,Repeated open-close cycles,Number of repeated open-close trials,,100,cycles,Completed,No manual jaw resetting required
+Grip-force characterization,Grip force,Grip force,Trial 1,6.8,N,,Measured using spring scale/digital force gauge
+Grip-force characterization,Grip force,Grip force,Trial 2,7.2,N,,Measured using spring scale/digital force gauge
+Grip-force characterization,Grip force,Grip force,Trial 3,7.0,N,,Measured using spring scale/digital force gauge
+Grip-force characterization,Grip force,Grip force,Trial 4,7.4,N,,Measured using spring scale/digital force gauge
+Grip-force characterization,Grip force,Grip force,Trial 5,6.9,N,,Measured using spring scale/digital force gauge
+Grip-force characterization,Grip force,Average grip force,,7.06,N,,Average of five grip-force trials
+Trigger response and cable actuation,Trigger response,Trigger travel,,36,mm,,Brake-style trigger travel
+Trigger response and cable actuation,Cable actuation,Cable displacement at working end,,24,mm,,Observed at working-end linkage
+Trigger response and cable actuation,Trigger force,Trigger force required for jaw closure,,12,N,,Required for full jaw closure
+Trigger response and cable actuation,Cable reliability,Cable slippage observed,,,No,No slippage during test
+Trigger response and cable actuation,Cable routing,Cable-guide interference observed,,,No,No guide interference during actuation
+Working-end rotation and body-winding test,Working-end rotation,Maximum working-end rotation angle,,360,degrees,,Manual rotation range
+Working-end rotation and body-winding test,Working-end rotation,Practical rotation range for body winding,,180-270,degrees,,Practical working range observed
+Working-end rotation and body-winding test,Working-end rotation,Rotation tested per trial,,180,degrees,,Rotation used in test trials
+Working-end rotation and body-winding test,Cable reliability,Cable interference during rotation,,,No,No cable interference during working-end rotation
+Working-end rotation and body-winding test,Spring/linkage reliability,Spring/linkage interference during rotation,,,No,No spring/linkage interference observed
+Working-end rotation and body-winding test,Body winding,Dummy-snake body winding observed,,,Yes,Body wound around gripper/shaft region
+Slip-resistance test,Slip resistance,Slip distance without working-end rotation,,42,mm,,Measured under gentle axial pull
+Slip-resistance test,Slip resistance,Slip distance after 90-degree rotation,,26,mm,,Measured under gentle axial pull
+Slip-resistance test,Slip resistance,Slip distance after 180-degree rotation,,14,mm,,Measured under gentle axial pull
+Slip-resistance test,Slip resistance,Slip distance after 270-degree rotation,,10,mm,,Measured under gentle axial pull
+Release-time test,Release response,Release time,Trial 1,0.82,s,,Trigger released after body-wound position
+Release-time test,Release response,Release time,Trial 2,0.76,s,,Trigger released after body-wound position
+Release-time test,Release response,Release time,Trial 3,0.79,s,,Trigger released after body-wound position
+Release-time test,Release response,Release time,Trial 4,0.84,s,,Trigger released after body-wound position
+Release-time test,Release response,Release time,Trial 5,0.78,s,,Trigger released after body-wound position
+Release-time test,Release response,Average release time,,0.80,s,,Average of five release-time trials
+Tool weight and handling length,Physical measurement,Overall tool length,,910,mm,,Prototype measurement
+Tool weight and handling length,Physical measurement,Main shaft length,,760,mm,,Prototype measurement
+Tool weight and handling length,Physical measurement,Total tool weight,,0.95,kg,,Prototype measurement
+Tool weight and handling length,Physical measurement,Working-end jaw assembly length,,145,mm,,Prototype measurement
+Tool weight and handling length,Physical measurement,Operator handle length,,130,mm,,Prototype measurement
+Durability and repeated-cycle test,Durability,Trigger open-close cycles completed,,100,cycles,Completed,Short-term repeated actuation test
+Durability and repeated-cycle test,Durability,Working-end rotation cycles completed,,50,cycles,Completed,Short-term repeated rotation test
+Durability and repeated-cycle test,Durability,Cable loosening observed,,,Minor / adjustable,Did not prevent operation
+Durability and repeated-cycle test,Durability,Spring deformation observed,,,No,No permanent spring deformation observed
+Durability and repeated-cycle test,Durability,Printed part cracking observed,,,No,No cracking observed
+Durability and repeated-cycle test,Durability,Fastener loosening observed,,,Minor at one joint,Adjustable during maintenance
+Durability and repeated-cycle test,Durability,Jaw pad detachment observed,,,No,Jaw pads remained fixed
+Validation summary,Summary,Intended operation sequence verified,,,Yes,Prototype-stage mechanical characterization with dummy snake/rubber tube
