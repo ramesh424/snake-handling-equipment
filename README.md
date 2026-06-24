@@ -84,42 +84,35 @@ The intended functional sequence is:
 
 ## Repository structure
 
-```text
-snake-rescue-tool/
-│
+snake-handling-equipment/
+├── README.md
+├── LICENSE
+├── LICENSE-DOCUMENTATION
 ├── CAD/
 │   ├── STEP/
 │   ├── STL/
-│   └── 3MF/
-│
-├── BOM/
+│   ├── 3MF/
+│   └── Source_CAD/
+├── 3D_Printing_Files/
+├── Bill_of_Materials/
 │   ├── BOM_snake_rescue_tool.csv
 │   └── BOM_snake_rescue_tool.xlsx
-│
 ├── Assembly_Instructions/
 │   └── assembly_manual.pdf
-│
 ├── Operation_Protocol/
 │   └── operation_protocol.pdf
-│
 ├── Validation_Data/
 │   ├── validation_dataset.csv
 │   └── validation_dataset.xlsx
-│
 ├── Figures/
+│   ├── exploded_component_layout.png
 │   ├── annotated_full_assembly.png
 │   ├── multi_view_cad.png
-│   ├── exploded_component_layout.png
 │   ├── initial_body_engagement.png
 │   ├── soft_grip_jaw_closeup.png
 │   └── working_end_rotation_test.png
-│
-├── Demonstration_Media/
-│   └── operation_sequence_video.mp4
-│
-├── LICENSE
-├── LICENSE-DOCUMENTATION
-└── README.md
+└── Demonstration_Media/
+    └── operation_sequence_video.mp4
 ```
 
 ---
